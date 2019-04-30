@@ -23,7 +23,7 @@
 
 ## story.txt
 This file contains all the text from the image story1.jpg using ***OCR with pytesseract***.
-### Make a new file summarize.py
+#### Make a new file summarize.py
 
 ## summarize.py
 In this file we used python's NLTK for removing stop_words, puctuations. And also word & sentence tokenizers from the NLTK library.   
