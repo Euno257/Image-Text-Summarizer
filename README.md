@@ -2,7 +2,7 @@
 ## Technologies Used
 - Optical Text Recognition
 - Natural Language preprocessing
-***Make a file ocr.py in the project folder.***
+<p>***Make a file ocr.py in the project folder.***</p>
 
 ## Setup Virual Environment
 <p><code> $ virtualenv venv --python=python3.6 </code></p>
