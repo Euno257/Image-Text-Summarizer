@@ -1,4 +1,5 @@
 # Image-Text-Summarizer
+It mainly comes in use when the reader is reading Novels, Stories or anything which contains large set of paragraphs. The reader can take an image of the paragraph and input it to the model. And the model will result in a summary of that paragraph. Basically, the model makes reading easy and time saving for the readers. 
 ## Technologies Used
 - Optical Text Recognition
 - Natural Language preprocessing
