@@ -1,4 +1,4 @@
-# Mobile-Document-Scanner
+# Image-Text-Summarizer
 ## Technologies Used
 - Optical Text Recognition
 - Natural Language preprocessing
