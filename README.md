@@ -11,13 +11,13 @@ It mainly comes in use when the reader is reading Novels, Stories or anything wh
 
 ## Install dependencies
 - Pillow
-<code> pip3 Install Pillow </code>
+<code> pip3 install Pillow </code>
 - Pytesseract
-<code> pip3 Install pytesseract </code>
+<code> pip3 install pytesseract </code>
 - OpenCV
-<code> pip3 Install opencv-python </code>
+<code> pip3 install opencv-python </code>
 - NLTK
-<code> pip3 Install nltk </code>
+<code> pip3 install nltk </code>
 
 ## Run ocr.py
 <code> python3 ocr.py --image images/story1.jpg > story.txt </code>
